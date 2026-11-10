@@ -32,7 +32,7 @@ Use Python 3.11. Install a PyTorch 2.5 build suitable for your CPU or CUDA devic
 then install the remaining dependencies:
 
 ```bash
-git clone https://github.com/yxb550/EvoTriKT.git
+git clone https://anonymous.4open.science/r/EvoTriKT-A593.git
 cd EvoTriKT
 python -m pip install -r requirements.txt
 ```
@@ -60,7 +60,7 @@ question/concept mapping. The language features use frozen
 
 Datasets, semantic caches, and model weights are supplied separately.
 
-## Training
+##培训
 
 Set training parameters in `scripts/train_config.json` and run:
 
