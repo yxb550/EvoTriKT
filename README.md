@@ -32,7 +32,6 @@ Use Python 3.11. Install a PyTorch 2.5 build suitable for your CPU or CUDA devic
 then install the remaining dependencies:
 
 ```bash
-git clone https://anonymous.4open.science/r/EvoTriKT-A593.git
 cd EvoTriKT
 python -m pip install -r requirements.txt
 ```
